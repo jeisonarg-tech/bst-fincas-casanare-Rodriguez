@@ -9,10 +9,8 @@ Desarrollado para FEDEGÁN - Uniremington Yopal.
 Jeison Rodriguez - Uniremington - Estructura de Datos- 3er Semestre
 
 ## Estructura del proyecto
-Taller_BST_Estructura_De_Datos/
-├── NodoBST.java     → clase que representa cada finca (nodo del árbol)
-├── ArbolBST.java    → árbol BST con inserción, recorridos y búsqueda
-└── Main.java        → menú interactivo en consola
+<img width="620" height="280" alt="image" src="https://github.com/user-attachments/assets/8c4478eb-d558-4595-872c-75f5375f207d" />
+
 
 ## Requisitos
 - Java 8 o superior
