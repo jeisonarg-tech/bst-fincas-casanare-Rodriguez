@@ -6,7 +6,7 @@ implementado con un Árbol Binario de Búsqueda (BST) en Java.
 Desarrollado para FEDEGÁN - Uniremington Yopal.
 
 ## Autor
-Jeison - Uniremington - Algoritmos II - 3er Semestre
+Jeison Rodriguez - Uniremington - Estructura de Datos- 3er Semestre
 
 ## Estructura del proyecto
 Taller_BST_Estructura_De_Datos/
